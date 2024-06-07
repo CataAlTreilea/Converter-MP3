@@ -1,6 +1,5 @@
 # Converter-MP3
-Image and Audio File Viewer
-This is a Qt-based application that allows you to view and convert image files, and play MP3 audio files. The application provides a user-friendly interface for managing and interacting with various types of multimedia files.
+This is a Qt-based application that allows you to convert image files, and play MP3 audio files. The application provides a user-friendly interface for managing and interacting with various types of multimedia files.
 Features
 
 Image Viewer: Open and display image files in various formats (PNG, JPG, JPEG, BMP, WEBP).
