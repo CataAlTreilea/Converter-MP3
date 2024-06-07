@@ -42,7 +42,6 @@ Use the horizontal slider to adjust the volume of the audio playback.
 
 
 
-
 # Requirements
 
 Qt 6.x or later
@@ -54,6 +53,8 @@ Clone the repository or download the source code.
 Open the project in Qt Creator or your preferred Qt development environment.
 Build and run the application.
 
+# Special Thanks
+I would like to express my sincere gratitude to my friend [Raul](https://github.com/raulg2004) for their invaluable contributions and support during the development of this project.
 
 # Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
