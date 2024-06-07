@@ -54,7 +54,7 @@ Open the project in Qt Creator or your preferred Qt development environment.
 Build and run the application.
 
 # Special Thanks
-I would like to express my sincere gratitude to my friend [Cătălin](https://github.com/CataAlTreilea) for their invaluable contributions and support during the development of this project.
+I would like to express my sincere gratitude to my friend [Raul](https://github.com/raulg2004) for their invaluable contributions and support during the development of this project.
 
 # Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
