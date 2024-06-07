@@ -8,7 +8,7 @@ Image Converter: Convert image files from one format to another (PNG, JPG, JPEG,
 Audio Player: Open and play MP3 audio files.
 Volume Control: Adjust the volume of the audio playback using a slider.
 
-# 1.How to Use
+# How to Use
 
 Open an Image File:
 
@@ -44,7 +44,7 @@ Use the horizontal slider to adjust the volume of the audio playback.
 
 
 
-# 2.Requirements
+# Requirements
 
 Qt 6.x or later
 C++ compiler compatible with Qt
@@ -56,7 +56,7 @@ Open the project in Qt Creator or your preferred Qt development environment.
 Build and run the application.
 
 
-# 3.Contributing
+# Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 # 4.License
